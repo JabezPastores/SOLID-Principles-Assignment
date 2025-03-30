@@ -1,5 +1,5 @@
 # SOLID-Principles-Assignment
-!(image)[https://github.com/JabezPastores/SOLID-Principles-Assignment/blob/main/SOLID%20Diagram.png]
+![image](https://github.com/JabezPastores/SOLID-Principles-Assignment/blob/main/SOLID%20Diagram.png)
 
 Improve the following codes to implement SOLID principles in OOP.
 
